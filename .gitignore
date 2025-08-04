@@ -1,0 +1,6 @@
+# Ignore Python virtual environments
+newenv/
+env/
+venv/
+__pycache__/
+*.pyc
